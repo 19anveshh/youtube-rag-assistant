@@ -10,7 +10,7 @@
 
 YouTube RAG Assistant turns long YouTube videos into an interactive question-answering experience.
 
-🔗 **Live Demo:** YOUR_STREAMLIT_LINK_HERE
+
 
 ---
 
