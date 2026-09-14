@@ -1,5 +1,6 @@
-```markdown
-🔗 **Live Demo:** https://youtube-rag-assistant-anu.streamlit.app/
+## 🚀 Live Demo
+
+👉 [Open YouTube RAG Assistant]((https://youtube-rag-assistant-anu.streamlit.app/))
 
 # 🎥 YouTube RAG Assistant
 
