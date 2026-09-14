@@ -1,6 +1,6 @@
 ## 🚀 Live Demo
 
-👉 [Open YouTube RAG Assistant]((https://youtube-rag-assistant-anu.streamlit.app/))
+👉 [Open YouTube RAG Assistant](https://youtube-rag-assistant-anu.streamlit.app/)
 
 # 🎥 YouTube RAG Assistant
 
